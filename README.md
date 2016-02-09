@@ -1,2 +1,2 @@
 # slide
-Script slides
+Repository contenant les scripts pour les Slides de présentation
